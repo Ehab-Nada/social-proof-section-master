@@ -1,4 +1,6 @@
-# Frontend Mentor - Social proof section
+# Frontend Mentor - Social proof section - by Ehab Nada
+
+##
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
