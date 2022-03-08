@@ -16,9 +16,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("/images/bg-pattern-bottom-desktop.svg") right bottom
+  background: url("../images/bg-pattern-bottom-desktop.svg") right bottom
       no-repeat,
-    url("/images/bg-pattern-top-desktop.svg") left top no-repeat;
+    url("../images/bg-pattern-top-desktop.svg") left top no-repeat;
 }
 .container {
   width: 80%;
